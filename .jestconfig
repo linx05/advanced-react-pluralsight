@@ -1,0 +1,7 @@
+{
+  "name": "advanced-react-pluralsight",
+  "collectCoverageFrom": [
+    "src/js/**/*.{js,jsx}"
+  ],
+  "testRegex":"src/**/\\.spec\\.js"
+}
